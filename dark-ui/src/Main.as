@@ -3,13 +3,13 @@ package
 	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	import flash.events.Event;
-	import ispg.framework.events.SliderEvent;
-	import ispg.framework.theme.dark.Box;
-	import ispg.framework.ui.controls.Button;
-	import ispg.framework.ui.controls.ColorPad;
-	import ispg.framework.ui.controls.Dropdown;
-	import ispg.framework.ui.controls.Dropslider;
-	import ispg.framework.ui.controls.TextInput;
+	import nid.framework.events.SliderEvent;
+	import nid.framework.theme.dark.Box;
+	import nid.framework.ui.controls.Button;
+	import nid.framework.ui.controls.ColorPad;
+	import nid.framework.ui.controls.Dropdown;
+	import nid.framework.ui.controls.Dropslider;
+	import nid.framework.ui.controls.TextInput;
 	
 	/**
 	 * ...
